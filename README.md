@@ -5,4 +5,4 @@ Worked in Collaboration With Jose Calderin, John Cruz, Daniel Lozano <br />
 
 I worked on mostly Level Design and Character Design <br />
 Pieced together tilesets <br />
-Design/repurposed Character sprites<br />
+redesigned/repurposed character sprites<br />
